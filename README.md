@@ -1,2 +1,5 @@
 ## Hi there 👋
-![My GIF](https://i.postimg.cc/pLP8475M/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwMnV2NXRvM2wydGw3MTNrdTNrd3l3dGlzd3IyMWcyYnIxcWpkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" height="200" alt="Excited GIF">
+</p>
+
