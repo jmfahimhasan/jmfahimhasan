@@ -1,18 +1,23 @@
-<h1 align="center">Hi
-  I'm J.M Fahim Hasan</h1>
-<h3 align="center">🎓 1st year Computer Science Engineering Student from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwMnV2NXRvM2wydGw3MTNrdTNrd3l3dGlzd3IyMWcyYnIxcWpkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" height="200" alt="Excited GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hi+I'm+J+M+Fahim+Hasan;I'm+First+Year+Computer+Science;Engineering+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwMnV2NXRvM2wydGw3MTNrdTNrd3l3dGlzd3IyMWcyYnIxcWpkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" height="200" alt="Excited GIF"> 
+</p>
+
+# <p align="center">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-1f425f?style=for-the-badge" />
 </p>
 
 
-<p align="center">
+##### <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jmfahimhasan&label=Profile%20views&color=0e75b6&style=flat" alt="JM Fahim Hasan" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+Developer;Learning+Every+Day;Future+Coder+In+Progress" alt="Typing SVG" />
 </p>
 
 
@@ -55,15 +60,6 @@
 ### 🔹 [myC_and_CPP_project](https://github.com/jmfahimhasan/myC_and_CPP_project)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=tokyonight)
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+Developer;Learning+Every+Day;Future+Coder+In+Progress" alt="Typing SVG" />
-</p>
-
-
 
 ### 📊 GitHub Stats
 <p align="center">
