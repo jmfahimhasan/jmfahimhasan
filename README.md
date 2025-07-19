@@ -23,8 +23,6 @@
 
 ### 📚 About Me
 
-- 🎓 **Student at:** Prime University
-- 🌍 **Lives in:** Dhaka, Bangladesh
 - 🔭 I’m currently learning Computer Science Fundamentals
 - 🌱 Exploring the tech world, step by step!
 - 💬 Ask me about anything — if I don’t know, I’ll learn it!
