@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+Developer;Learning+Every+Day;Future+Coder+In+Progress" alt="Typing SVG" />
 </p>
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=tokyonight)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=merko)
 
 ### 📚 About Me
 
@@ -85,4 +85,20 @@
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jmfahimhasan&label=Profile%20views&color=0e75b6&style=flat" alt="JM Fahim Hasan" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
