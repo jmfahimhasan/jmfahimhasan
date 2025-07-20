@@ -58,18 +58,18 @@
   </a>
 </p>
 
- ### 🧠 [myC_and_CPP_project](https://github.com/jmfahimhasan/myC_and_CPP_project)
+ # 🧠 [myC_and_CPP_project](https://github.com/jmfahimhasan/myC_and_CPP_project) #
 
- ## <p align="center">
+- ### ✨ Quote I Like
+> # "Some you've seen, some I haven't."
+
+## 🚀 Want to see magic in future?
+### Stay tuned, great things are coming! ✨
+
+###  <p align="center">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-1f425f?style=for-the-badge" />
 </p>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jmfahimhasan&label=Profile%20views&color=0e75b6&style=flat" alt="JM Fahim Hasan" />
 </p>
 
-- ### ✨ Quote I Like
-> # "Some you've seen, some I haven't."
-
-
-### 🚀 Want to see magic in future?
-Stay tuned, great things are coming! ✨
