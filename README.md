@@ -60,11 +60,24 @@
 
  # 🧠 [myC_and_CPP_project](https://github.com/jmfahimhasan/myC_and_CPP_project) #
 
-- ### ✨ Quote I Like
-> # "Some you've seen, some I haven't."
 
-## 🚀 Want to see magic in future?
-### Stay tuned, great things are coming! ✨
+
+
+
+
+
+
+
+
+
+
+
+ # ✨Quote I Like
+> ## "Some you've seen, some I haven't."
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=The+Battle+Of+The+Soul;With+The+Devil" alt="Typing SVG" />
+</p>
 
 ###  <p align="center">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-1f425f?style=for-the-badge" />
