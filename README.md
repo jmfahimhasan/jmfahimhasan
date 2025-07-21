@@ -58,7 +58,7 @@
   </a>
 </p>
 
- # 🧠 [myC_and_CPP_project](https://github.com/jmfahimhasan/myC_and_CPP_project) #
+ # 🧠 [myC_and_CPP_project](https://github.com/jmfahimhasan/MyC_and_cpp) #
 
 
 
