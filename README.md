@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1500&color=00CFFF&center=true&width=600&lines=Hi+I'm+J+M+FAHIM+HASAN" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hi+I'm+J+M+Fahim+Hasan;I'm;First+Year+Computer+Science;Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=5000&color=FF0000&center=true&width=600&lines=Computer+Science+and+Engineering+Student." alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwMnV2NXRvM2wydGw3MTNrdTNrd3l3dGlzd3IyMWcyYnIxcWpkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" height="200" alt="Excited GIF"> 
@@ -77,8 +81,9 @@
 > ## "Some you've seen, some I haven't."
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=The+Battle+Of+The+Soul;With+The+Devil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=2000&color=FF2C2C&center=true&width=700&lines=The+Battle+Of+The+Soul;With+The+Devil" alt="Typing SVG" />
 </p>
+
 
 ###  <p align="center">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-1f425f?style=for-the-badge" />
@@ -92,13 +97,10 @@
 
 
 
-
-
-
-
-
-
-
+### 👁‍🗨 “The Beat That Moves Me Most”
+### <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1500&color=FF8C9A&center=true&width=600&lines=Twinkle,+twinkle,+little+star;How+I+wonder+what+you+are!;Up+above+the+world+so+high;Like+a+diamond+in+the+sky.;When+the+blazing+sun+is+gone;When+he+nothing+shines+upon;Then+you+show+your+little+light;Twinkle,+twinkle,+all+the+night...." alt="Twinkle Twinkle Poem Typing SVG" />
+</p> 
 
 
 
