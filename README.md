@@ -80,9 +80,26 @@
  # ✨Quote I Like
 > ## "Some you've seen, some I haven't."
 
-<p align="center">
+
+
+
+
+
+### 👁‍🗨 “The Beat That Moves Me Most”
+### <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=48&duration=5000&pause=1500&color=FF0000&center=true&width=600&lines=Twinkle,+twinkle,+little+star;How+I+wonder+what+you+are!;Up+above+the+world+so+high;Like+a+diamond+in+the+sky.;When+the+blazing+sun+is+gone;When+he+nothing+shines+upon;Then+you+show+your+little+light;Twinkle,+twinkle,+all+the+night." alt="Twinkle Twinkle Poem Typing SVG" />
+</p>
+
+
+### <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=2000&color=FF2C2C&center=true&width=700&lines=The+Battle+Of+The+Soul;With+The+Devil" alt="Typing SVG" />
 </p>
+
+
+
+
+
+
 
 
 ###  <p align="center">
@@ -93,14 +110,6 @@
 </p>
 
 
-
-
-
-
-### 👁‍🗨 “The Beat That Moves Me Most”
-### <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1500&color=FF8C9A&center=true&width=600&lines=Twinkle,+twinkle,+little+star;How+I+wonder+what+you+are!;Up+above+the+world+so+high;Like+a+diamond+in+the+sky.;When+the+blazing+sun+is+gone;When+he+nothing+shines+upon;Then+you+show+your+little+light;Twinkle,+twinkle,+all+the+night...." alt="Twinkle Twinkle Poem Typing SVG" />
-</p> 
 
 
 
