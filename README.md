@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+Developer;Learning+Every+Day;Future+Coder+In+Progress" alt="Typing SVG" />
 </p>
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=merko)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=solarized-dark)
 
 ### 📚 About Me
 
@@ -26,19 +26,17 @@
 
 
 ## 📊 My GitHub Stats & Streak
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=dark" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=solarized-dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=jmfahimhasan&theme=merko&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=jmfahimhasan&theme=dracula&hide_border=true" alt="Streak" />
-</p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=onedark" alt="Trophies" />
+
+### 🏆 GitHub Trophies
+### <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical" alt="Trophies" />
 </p>
 
 
