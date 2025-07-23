@@ -23,16 +23,35 @@
 - 🌱 Exploring the tech world, step by step!
 - 💬 Ask me about anything — if I don’t know, I’ll learn it!
 
-### 📊 GitHub Stats
+
+
+## 📊 My GitHub Stats & Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=merko" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmfahimhasan&theme=monokai" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=dark" alt="Stats" />
 </p>
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=monokai&row=1&column=6" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=jmfahimhasan&theme=dracula&hide_border=true" alt="Streak" />
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=onedark" alt="Trophies" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
