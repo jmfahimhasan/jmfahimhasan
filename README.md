@@ -31,38 +31,25 @@
  ### 🔰 [F_C_and_CPP](https://github.com/jmfahimhasan/F_C_and_CPP) 
 
 
-# 🧠 My GitHub Dashboard
-<div align="center" style="background-color:#0f1c1c; padding: 20px; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.3); display: inline-block;">
+## 🧠 My GitHub Dashboard
 
-<table cellspacing="0" cellpadding="0" style="border-spacing: 0;">
-  <tr>
-    <td>
-      <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="200" width="400" src="https://streak-stats.demolab.com/?user=jmfahimhasan&theme=merko&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&theme=merko&hide_border=true" alt="Top Languages" />
-    </td>
-    <td>
-      <img height="200" width="400" src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=0&margin-h=0&column=4" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-bottom: 20px;">
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
+</div>
 
+### <div align="center" style="margin-bottom: 20px;">
+  <img height="200" width="400" src="https://streak-stats.demolab.com/?user=jmfahimhasan&theme=merko&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
+<div align="center">
+  <img height="200" width="400" src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=0&margin-h=0&column=4" alt="GitHub Trophies" />
+</div>
 
 
-[![Faheem's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jmfahimhasan&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
+### <div align="center" style="margin-bottom: 20px;">
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&theme=merko&hide_border=true" alt="Top Languages" />
+</div>
 
 
 
