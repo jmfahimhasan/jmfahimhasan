@@ -11,42 +11,78 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwMnV2NXRvM2wydGw3MTNrdTNrd3l3dGlzd3IyMWcyYnIxcWpkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" height="200" alt="Excited GIF"> 
 </p>
 
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jmfahimhasan&label=Profile%20views&color=0e75b6&style=flat" alt="JM Fahim Hasan" />
+</p>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+Developer;Learning+Every+Day;Future+Coder+In+Progress" alt="Typing SVG" />
 </p>
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=solarized-dark)
 
 ### 📚 About Me
 
 - 🔭 I’m currently learning Computer Science Fundamentals
 - 🌱 Exploring the tech world, step by step!
 - 💬 Ask me about anything — if I don’t know, I’ll learn it!
+ ### 🔰 [F_C_and_CPP](https://github.com/jmfahimhasan/F_C_and_CPP) 
+
+
+# 🧠 My GitHub Dashboard
+<div align="center" style="background-color:#0f1c1c; padding: 20px; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.3); display: inline-block;">
+
+<table cellspacing="0" cellpadding="0" style="border-spacing: 0;">
+  <tr>
+    <td>
+      <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img height="200" width="400" src="https://streak-stats.demolab.com/?user=jmfahimhasan&theme=merko&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&theme=merko&hide_border=true" alt="Top Languages" />
+    </td>
+    <td>
+      <img height="200" width="400" src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=0&margin-h=0&column=4" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
-## 📊 My GitHub Stats & Streak
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=solarized-dark" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=jmfahimhasan&theme=merko&hide_border=true" alt="GitHub Streak" />
-</p>
+
+[![Faheem's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jmfahimhasan&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 
-### 🏆 GitHub Trophies
+
+
+
+
+
+
+
+
+
+ # ✨Quote I Like
+> ## "Some you've seen, some I haven't."
+
+### 👁‍🗨 “The Beat That Moves Me Most”
 ### <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical" alt="Trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=48&duration=5000&pause=1500&color=FF0000&center=true&width=600&lines=Twinkle,+twinkle,+little+star;How+I+wonder+what+you+are!;Up+above+the+world+so+high;Like+a+diamond+in+the+sky.;When+the+blazing+sun+is+gone;When+he+nothing+shines+upon;Then+you+show+your+little+light;Twinkle,+twinkle,+all+the+night." alt="Twinkle Twinkle Poem Typing SVG" />
 </p>
 
-
-
-
-
-
-
-
-
+### <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=2000&color=FF2C2C&center=true&width=700&lines=The+Battle+Of+The+Soul;With+The+Devil" alt="Typing SVG" />
+</p>
 
 
 
@@ -79,39 +115,6 @@
   </a>
 </p>
 
- # 🔰 [F_C_and_CPP](https://github.com/jmfahimhasan/F_C_and_CPP) 
-  #
-
-
-
-
-
-
-
-
-
-
-
-
-
- # ✨Quote I Like
-> ## "Some you've seen, some I haven't."
-
-
-
-
-
-
-### 👁‍🗨 “The Beat That Moves Me Most”
-### <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=48&duration=5000&pause=1500&color=FF0000&center=true&width=600&lines=Twinkle,+twinkle,+little+star;How+I+wonder+what+you+are!;Up+above+the+world+so+high;Like+a+diamond+in+the+sky.;When+the+blazing+sun+is+gone;When+he+nothing+shines+upon;Then+you+show+your+little+light;Twinkle,+twinkle,+all+the+night." alt="Twinkle Twinkle Poem Typing SVG" />
-</p>
-
-
-### <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=2000&color=FF2C2C&center=true&width=700&lines=The+Battle+Of+The+Soul;With+The+Devil" alt="Typing SVG" />
-</p>
-
 
 
 
@@ -122,9 +125,18 @@
 ###  <p align="center">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-1f425f?style=for-the-badge" />
 </p>
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jmfahimhasan&label=Profile%20views&color=0e75b6&style=flat" alt="JM Fahim Hasan" />
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
