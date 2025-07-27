@@ -31,37 +31,11 @@
 
 
 
-### 📊 GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10) ![GitHub Streak](https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0)
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="200" />
-  
-  <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0" height="200" />
-  
-</div>
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=10)
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=10&margin-h=15&row=1&column=8" width="100%" />
-</div>
-
-
-
-
-
-
-
-## 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=10)
-
-
-
-
-
-
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=10&margin-h=15&row=1&column=8)
 
 
 
@@ -125,25 +99,6 @@
 
 
 
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0)
-
----
-
-## 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=10)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=10&margin-h=15&row=1&column=7)
-
----
 
 
 
@@ -152,7 +107,14 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10) ![GitHub Streak](https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0)
+
+
+
+
+
+
+
+
 
 
 
