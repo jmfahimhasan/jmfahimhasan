@@ -33,9 +33,9 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=merko&hide_border=true&border_radius=10) ![GitHub Streak](https://streak-stats.demolab.com?user=jmfahimhasan&theme=vue&hide_border=true&background=060A0CD0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=onedark&hide_border=true&border_radius=10) ![GitHub Streak](https://streak-stats.demolab.com?user=jmfahimhasan&theme=vue&hide_border=true&background=060A0CD0)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=monokai&hide_border=true&border_radius=10)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=onedark&hide_border=true&border_radius=10)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=onedark&no-frame=true&margin-w=10&margin-h=15&row=2&column=4)
 
