@@ -41,16 +41,9 @@
   
 </div>
 
-<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=10" width="50%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=10&margin-h=15&row=1&column=7" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=10&margin-h=15&row=1&column=8" width="100%" />
 </div>
 
 
@@ -59,6 +52,9 @@
 
 
 
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=10)
 
 
 
@@ -129,4 +125,22 @@
 
 
 
+## 📊 GitHub Overview
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0)
+
+---
+
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=10)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=10&margin-h=15&row=1&column=7)
+
+---
