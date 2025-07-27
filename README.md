@@ -11,9 +11,8 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwMnV2NXRvM2wydGw3MTNrdTNrd3l3dGlzd3IyMWcyYnIxcWpkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" height="200" alt="Excited GIF"> 
 </p>
 
-
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jmfahimhasan&label=Profile%20views&color=0e75b6&style=flat" alt="JM Fahim Hasan" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jmfahimhasan&label=Profile+Views&color=dc143c&style=for-the-badge" alt="JM Fahim Hasan" />
 </p>
 
 
@@ -34,28 +33,28 @@
 ## 📊 Dashboard
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=15" width="650" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0" width="650" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=15" width="650" />
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Stats - Big -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=15" width="50%" />
 </div>
 
 <br/>
 
-<div align="center" style="margin-top:-80px; z-index:-1; position:relative;">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&margin-w=10&margin-h=15&no-frame=true&row=1&column=7" width="90%" />
+<div align="center">
+  <!-- GitHub Streak - Medium -->
+  <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0" width="50%" />
 </div>
 
+<br/>
 
+<div align="center">
+  <!-- Most Used Languages - Small -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=15" width="30%" />
+</div>
+
+<!-- Trophy behind -->
+<div align="center" style="margin-top:-100px; z-index:-1; position:relative;">
+  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&margin-w=10&margin-h=15&no-frame=true&row=1&column=7" width="90%" />
+</div>
 
 
 
