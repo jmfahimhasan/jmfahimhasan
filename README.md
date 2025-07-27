@@ -144,3 +144,22 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=10&margin-h=15&row=1&column=7)
 
 ---
+
+
+
+
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10) ![GitHub Streak](https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0)
+
+
+
+
+
+
+
+
+
+
