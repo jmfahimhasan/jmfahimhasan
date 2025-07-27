@@ -30,12 +30,15 @@
 - 🌱 Exploring the tech world, step by step!
 - 💬 Ask me about anything — if I don’t know, I’ll learn it!
 
+## GitHub Overview
 
+<p align="center" style="line-height: 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=merko&hide_border=true&border_radius=10" style="max-width: 200%; width: 450px;"/>
+</p>
+<p align="center" style="line-height: 0;">
+  <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=synthwave&hide_border=true&background=060A0CD0" style="max-width: 200%; width: 450px;"/>
+</p>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=merko&hide_border=true&border_radius=10) ![GitHub Streak](https://streak-stats.demolab.com?user=jmfahimhasan&theme=synthwave&hide_border=true&background=060A0CD0)
-
-  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=onedark&hide_border=true&border_radius=10" />
