@@ -8,6 +8,13 @@
 
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+Developer;Learning+Every+Day;Future+Coder+In+Progress" alt="Typing SVG" />
+</p>
+
+
+
+
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwMnV2NXRvM2wydGw3MTNrdTNrd3l3dGlzd3IyMWcyYnIxcWpkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" height="200" alt="Excited GIF"> 
 </p>
 
@@ -15,11 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=jmfahimhasan&label=Profile+Views&color=dc143c&style=for-the-badge" alt="JM Fahim Hasan" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+Developer;Learning+Every+Day;Future+Coder+In+Progress" alt="Typing SVG" />
-</p>
 
 
 ### 📚 About Me
