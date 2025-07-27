@@ -28,31 +28,32 @@
 - 🔭 I’m currently learning Computer Science Fundamentals
 - 🌱 Exploring the tech world, step by step!
 - 💬 Ask me about anything — if I don’t know, I’ll learn it!
- ### 🔰 [F_C_and_CPP](https://github.com/jmfahimhasan/F_C_and_CPP) 
 
 
-## 🧠 My GitHub Dashboard
 
-<div align="center" style="margin-bottom: 20px;">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
-</div>
-
-### <div align="center" style="margin-bottom: 20px;">
-  <img height="200" width="400" src="https://streak-stats.demolab.com/?user=jmfahimhasan&theme=merko&hide_border=true" alt="GitHub Streak" />
-</div>
-
+## 📊 Dashboard
 
 <div align="center">
-  <img height="200" width="400" src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=0&margin-h=0&column=4" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=15" width="650" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0" width="650" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=15" width="650" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br/>
 
-### <div align="center" style="margin-bottom: 20px;">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&theme=merko&hide_border=true" alt="Top Languages" />
+<div align="center" style="margin-top:-80px; z-index:-1; position:relative;">
+  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&margin-w=10&margin-h=15&no-frame=true&row=1&column=7" width="90%" />
 </div>
-
-
-
 
 
 
@@ -112,10 +113,6 @@
 ###  <p align="center">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-1f425f?style=for-the-badge" />
 </p>
-
-
-
-
 
 
 
