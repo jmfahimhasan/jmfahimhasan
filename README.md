@@ -29,24 +29,15 @@
 - 💬 Ask me about anything — if I don’t know, I’ll learn it!
 
 
-
-## 📊 Dashboard
-
-<div align="center">
-  <!-- GitHub Stats - Big -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=15" width="50%" />
-</div>
-
-<br/>
+## 📊 GitHub Over View
 
 <div align="center">
-  <!-- GitHub Streak - Medium -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="48%" />
   <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0" width="50%" />
-</div>
+</div
 
-<br/>
 
-<div align="center">
+### <div align="center">
   <!-- Most Used Languages - Small -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=15" width="30%" />
 </div>
@@ -119,10 +110,12 @@
 
 
 
+## 📊 GitHub Stats & Streak
 
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0" width="49.9%" />
+</div
 
 
 
