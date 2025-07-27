@@ -29,23 +29,44 @@
 - 💬 Ask me about anything — if I don’t know, I’ll learn it!
 
 
-## 📊 GitHub Over View
+
+
+### 📊 GitHub Overview
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="200" />
+  
+  <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0" height="200" />
+  
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0" width="50%" />
-</div
-
-
-### <div align="center">
-  <!-- Most Used Languages - Small -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=15" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfahimhasan&layout=compact&theme=radical&hide_border=true&border_radius=10" width="50%" />
 </div>
 
-<!-- Trophy behind -->
-<div align="center" style="margin-top:-100px; z-index:-1; position:relative;">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&margin-w=10&margin-h=15&no-frame=true&row=1&column=7" width="90%" />
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jmfahimhasan&theme=radical&no-frame=true&margin-w=10&margin-h=15&row=1&column=7" width="90%" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -106,16 +127,6 @@
 
 
 
-
-
-
-
-## 📊 GitHub Stats & Streak
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmfahimhasan&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=jmfahimhasan&theme=radical&hide_border=true&background=060A0CD0" width="49.9%" />
-</div
 
 
 
